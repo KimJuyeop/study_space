@@ -1,8 +1,12 @@
-title:  " async thread의 개념"
+<h1> async thread 개념 이해하기 </h1>
 
 
-summary: 동기방식 (Synchronous)
 
+
+
+
+
+<h4>  동기방식 (Synchronous) </h4>
 
 
 요청을 보낸 후 응답(=결과)를 받아야지만 다음 동작이 이루어지는 방식이다.
@@ -15,7 +19,7 @@ summary: 동기방식 (Synchronous)
 
 
 
-summary: 비동기 방식 (Asynchronous)
+<h4> summary: 비동기 방식 (Asynchronous) /<h4>
 
 
 요청을 보낸  후 응답(=결과)와는 상관없이 다음방식이 동작하는 방식이다.
@@ -37,5 +41,8 @@ summary: 비동기 방식 (Asynchronous)
 비동기 방식은 DOS같은 단일 운영체제에서는 불가능하며 windows 같은 multitask 환경에서만 가능하다.
 
 (ajax에서는 success, error, complete 을 콜백함수라고 할 수 있다.)
+  
+  
+  
 
 
