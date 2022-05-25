@@ -38,12 +38,9 @@
   (ajax에서는 success, error, complete 을 콜백함수라고 할 수 있다.)</h7>
   
   
-  
-  
-  
-  
-  
-  
+  <p>
+  <b>
+  <br>
   
   참고 : https://jieun0113.tistory.com/73 
          https://private.tistory.com/24
