@@ -6,7 +6,8 @@
 <p>
   <h3>동기방식 (Synchronous)</h3>
 <p>
-
+  ![동기화예시](../assets/img/%EB%8F%99%EA%B8%B0%ED%99%94%EC%98%88%EC%8B%9C.PNG)
+<p>
 <h7>요청을 보낸 후 응답(=결과)를 받아야지만 다음 동작이 이루어지는 방식이다.
 
 어떠한 일을 처리할 동안 다른 프로그램은 정지한다.
@@ -37,8 +38,9 @@
 
   (ajax에서는 success, error, complete 을 콜백함수라고 할 수 있다.)</h7>
   
-  C:\Users\User\git\KimJuyeop.github.io\assets\img\동기화예시.PNG
-  
+
+
+
   <p>
   <b>
   <br>
