@@ -37,6 +37,7 @@
 
   (ajax에서는 success, error, complete 을 콜백함수라고 할 수 있다.)</h7>
   
+  C:\Users\User\git\KimJuyeop.github.io\assets\img\동기화예시.PNG
   
   <p>
   <b>
